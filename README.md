@@ -1,8 +1,8 @@
 ## KAUP_10
-#KAIST Full-Stack LLMJ Project Course with Solar
+KAIST Full-Stack LLMJ Project Course with Solar
 
 
-주제: 법률 개정사항을 알려주는 챗봇
+주제: 법, 어떻게 변화될까?
 
 
 기술 스택: Python, Solar API, Langchain, Oracle DB
